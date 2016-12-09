@@ -1,0 +1,6 @@
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\getting_user_input\getting_user_input\bin\Debug\getting_user_input.exe.config
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\getting_user_input\getting_user_input\bin\Debug\getting_user_input.exe
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\getting_user_input\getting_user_input\bin\Debug\getting_user_input.pdb
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\getting_user_input\getting_user_input\obj\Debug\getting_user_input.exe
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\getting_user_input\getting_user_input\obj\Debug\getting_user_input.pdb
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\getting_user_input\getting_user_input\obj\Debug\getting_user_input.csprojResolveAssemblyReference.cache
